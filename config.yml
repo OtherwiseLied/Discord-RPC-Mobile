@@ -1,5 +1,5 @@
 ---
-replit: True  # Whether if you're using Replit
+replit: False  # Whether if you're using Replit
 
 auth_token: EwxunT  # Replit users leave blank but put token in the secrets tab and name the key "TOKEN"
 application_id: 1562605636032794724  
